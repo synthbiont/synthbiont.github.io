@@ -2,7 +2,7 @@
 layout: page
 created: 2020-06-30T01:59:32+02:00
 title: Lo que leo
-modified: 2020-07-21T10:34:19+02:00
+modified: 2020-07-22T20:28:02+02:00
 permalink: /leo/
 ---
 
@@ -19,8 +19,13 @@ permalink: /leo/
     > Lo terminé sólo porque era de David Bowie y porque quiero terminar los libros de mi biblioteca. La idea de la casa como otro personaje en la historia (como narrador) me gustó. Sin embargo, la historia se desarrolló muy rápido. Y en general no es tan interesante saber cómo creó el personaje de Ziggy Stardust. Más interesante es cómo logró crear a todos sus (otros) personajes. 
 
 - [x] Revista matera N°18 (Tenemos Teléfono :telephone:) 
- -  Julio 18 - Julio 21 2020
-    >  Mis favs: Sin título (Juliana Cuellar Bejarano), Rotos y descompuestos (David Adams Rico), Siete poemas (María Mercedes Salgado), Di que no estoy (Ana Conda Montes), Radio Tiempo (Pedro Carlos Lemus), Post-lazarillos (Juana Anzellini), Dibujos telefónicos (Nicolás Llano), El Cobra, ericofón (Luis Roldán). 
+  -  Julio 18 - Julio 21 2020
+     >  Mis favs: Sin título (Juliana Cuellar Bejarano), Rotos y descompuestos (David Adams Rico), Siete poemas (María Mercedes Salgado), Di que no estoy (Ana Conda Montes), Radio Tiempo (Pedro Carlos Lemus), Post-lazarillos (Juana Anzellini), Dibujos telefónicos (Nicolás Llano), El Cobra, ericofón (Luis Roldán). 
+
+- [x] Baltic Comics Magazine š! #36 (Plant Power)
+  -  Julio 22 2020
+      > Mis favs: Disa Wallender (disawallender.com),  Roman Muradov (bluebed.net), Jean de Wet (jeandewet.com).
+  
 
 ## Lo que juego
 
