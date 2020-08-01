@@ -1,10 +1,11 @@
 ---
 layout: page
 created: 2020-06-30T01:59:32+02:00
-title: Lo que leo
-modified: 2020-07-22T20:28:02+02:00
+modified: 2020-08-01T10:22:58+02:00
 permalink: /leo/
 ---
+
+# Lo que leo
 
 :thumbsdown: :punch: :thumbsup: :metal:
 
@@ -26,6 +27,10 @@ permalink: /leo/
   -  Julio 22 2020
       > Mis favs: Disa Wallender (disawallender.com),  Roman Muradov (bluebed.net), Jean de Wet (jeandewet.com).
   
+
+- [x] A Maze of Death. *Philip K. Dick*. 
+  -  Julio 23 - Julio 31 2020
+     > Primer libro de PKD que leo después de haber leído Ubik hace años (además de todas las historias cortas que he venido leyendo). Me hacía falta la sensación de terminar un libro preguntándome qué es real. ¿El dios de la simulación existe? ¿Por qué vuelven a Dalmak-O?
 
 ## Lo que juego
 
