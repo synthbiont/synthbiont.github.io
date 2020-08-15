@@ -1,7 +1,7 @@
 ---
 layout: page
 created: 2020-06-30T01:59:32+02:00
-modified: 2020-08-09T17:35:01+02:00
+modified: 2020-08-15T23:48:35+02:00
 permalink: /leo/
 ---
 
@@ -29,8 +29,12 @@ permalink: /leo/
   
 
 - [x] A Maze of Death. *Philip K. Dick*. 
-  -  Julio 23 - Julio 31 2020
+  - Julio 23 - Julio 31 2020
      > Primer libro de PKD que leo después de haber leído Ubik hace años (además de todas las historias cortas que he venido leyendo). Me hacía falta la sensación de terminar un libro preguntándome qué es real. ¿El dios de la simulación existe? ¿Por qué vuelven a Dalmak-O?
+
+- [x] Kentukis. *Samanta Schweblin*. 
+  - Agosto 1 - Agosto 15 2020
+     > :thumbsup:. Por muy trágicas que son estas historias, me gustaría vivir en una realidad en la que estos furbies hi-tech existieran. Se leen casi como una extensión natural de lo que ya hacemos todos los días con facebook, Twitter, Instagram, etc. 
 
 ## Lo que juego
 
