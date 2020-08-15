@@ -1,7 +1,7 @@
 ---
 layout: page
 created: 2020-06-30T01:59:32+02:00
-modified: 2020-08-15T23:48:35+02:00
+modified: 2020-08-15T23:48:59+02:00
 permalink: /leo/
 ---
 
@@ -41,7 +41,7 @@ permalink: /leo/
 - [x] Bastion
   - Junio - Julio 2020
     > Ésta es la segunda vez que lo juego. De nuevo quedo sorprendido con lo buena que es la música. Lástima que no tenga la motivación (como la vez pasada que lo terminé) de jugar New Game Plus. Igual que la vez pasada, salvé a Zulf y decidí no reiniciar todo el mundo.
-- [ ] Tangle Tower
+- [x] Tangle Tower
   - Julio 2020 -
     > Las voces en el juego son increiblemente naturales. Me recordaban a Oxenfree. Soy muy malo para los point&click.
 
