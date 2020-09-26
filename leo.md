@@ -39,6 +39,15 @@ permalink: /leo/
   - Agosto 16 2020 - 
      > .
 
+- [x] Stealing the show: A history of art and crime in six thefts. *John Barelli *.
+  - Septiembre 13 - Septiembre 24 2020
+     > ¿Quieres ser un ladrón de arte? Yo también. Sin embargo, después de leer este libro recapacité porque robar arte es un acto de arrogancia: creer que las habilidades que uno tiene son mejores que las de todo un equipo de seguridad e investigadores que dedican todas sus energías a detener este tipo de crímenes. El libro es entretenido y me dio ganas de volver al MET. Quedé con ganas de algo más extenso o detallado (especialmente teniendo en cuenta que este libro vale 28 dólares!). 
+
+- [ ] Cien años de soledad. *Gabriel García Márquez*.
+  - Septiembre 26 2020 - 
+     > ¿Quieres ser un ladrón de arte? Yo también. Sin embargo, después de leer este libro recapacité porque robar arte es un acto de arrogancia: creer que las habilidades que uno tiene son mejores que las de todo un equipo de seguridad e investigadores muy capacitados que dedican todas sus energías a detener este tipo de crímenes. El libro es entretenido y me dio ganas de volver al MET. Quedé con ganas de algo más extenso o detallado (especialmente teniendo en cuenta que este libro vale 28 dólares!). 
+
+
 ## Lo que juego
 
 - [x] Bastion
