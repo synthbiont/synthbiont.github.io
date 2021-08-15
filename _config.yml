@@ -1,25 +1,25 @@
-site: Gesko
-title: Gesko
+site: SynthBiont
+title: SynthBiont
 description: >-
   just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/synthbiont/synthbiont.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: Joan
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  username: synthbiont # general username
+  github: synthbiont # github username
+  twitter: joangallego # twitter username
+  email: synthbiont@riseup.net # email adress
 
 # URL settings
-url: "https://powex.ml" #
-baseurl: "/Gesko" # leave blank if not wishd
-permalink: "https://powex.ml/Gesko/"
+url: "https://synthbiont.rocks" #
+baseurl: "" # leave blank if not wishd
+permalink: "https://synthbiont.rocks/"
 permalink: pretty 
 
 
