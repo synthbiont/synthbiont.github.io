@@ -18,7 +18,7 @@ author:
 
 # URL settings
 url: "https://synthbiont.rocks" #
-baseurl: # leave blank if not wishd
+baseurl: "/" # leave blank if not wishd
 permalink: "https://synthbiont.rocks/"
 permalink: pretty 
 
