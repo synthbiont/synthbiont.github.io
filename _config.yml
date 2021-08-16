@@ -1,16 +1,16 @@
 site: SynthBiont
 title: SynthBiont
 description: >-
-  just a minimalist, personal blog
+  Una nueva iteración de mi blog.
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
-timezone: Rome
+timezone: Amsterdam
 repo: https://github.com/synthbiont/synthbiont.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
   name: Joan
-  bio: just a minimalist, personal blog
+  bio: Una nueva iteración de mi blog.
   username: synthbiont # general username
   github: synthbiont # github username
   twitter: joangallego # twitter username
