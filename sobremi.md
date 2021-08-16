@@ -4,6 +4,13 @@ title: "Sobre mí"
 permalink: sobre-mi.html
 ---
 
+  <div class="flex-row-between">
+    <a href="{{ site.baseurl }}">« regresar</a>
+    <button title="Cambiar tema" id="theme-toggle" onclick="modeSwitcher()">
+      <div></div>
+    </button>
+  </div>
+
 Soy Joan, y trabajo en biotecnología. Experimento con grabaciones de campo, live-coding, sintetizadores, y wearables basados en Arduino cuando tengo algo de tiempo libre.
 También estoy intentando aprender coreano.
 
