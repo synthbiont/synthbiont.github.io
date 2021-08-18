@@ -22,12 +22,12 @@ layout: default
 
   <nav class="post-nav">
     {% if page.previous %}
-    <a class="post-nav-item post-nav-prev" href="{{ page.previous | relative_url }}">
+    <a class="post-nav-item post-nav-prev" href="{{ page.previous.url | prepend: site.baseurl }}">
       <div class="nav-arrow">Anterior</div>
       <span class="post-title">{{ page.previous.title }}</span>
     </a>
     {% endif %} {% if page.next %}
-    <a class="post-nav-item post-nav-next" href="{{ page.next | relative_url }}">
+    <a class="post-nav-item post-nav-next" href="{{ page.next.url | prepend: site.baseurl }}">
       <div class="nav-arrow">Siguiente</div>
       <span class="post-title">{{ page.next.title }}</span>
     </a>
